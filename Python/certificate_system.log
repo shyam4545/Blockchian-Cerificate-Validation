@@ -1,0 +1,204 @@
+2025-09-28 19:53:55,309 - INFO - Connected to blockchain. Account: 0xB17594b12F1aEEB61835e0689619cf8C4E501656
+2025-09-28 19:53:55,312 - INFO - Contract loaded at: 0xeb59110d06310d7A31B208852AcaFdF72DF81Ddd
+2025-09-28 19:53:55,312 - INFO - === Starting Data Wiping Certification Process ===
+2025-09-28 19:53:55,313 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z
+2025-09-28 19:54:00,865 - INFO - File uploaded to IPFS: bafkreidn24jjbn4maepu6rpszu23cqgnlkeevwfkxbh6cdl4hxvn6aulfq
+2025-09-28 19:54:01,212 - INFO - Estimated gas: 598878, Cost: 0.01197756 ETH
+2025-09-28 19:54:01,242 - ERROR - Certificate issuance failed: 'SignedTransaction' object has no attribute 'rawTransaction'
+2025-09-28 20:23:59,831 - INFO - Connected to blockchain. Account: 0xB17594b12F1aEEB61835e0689619cf8C4E501656
+2025-09-28 20:23:59,834 - INFO - Contract loaded at: 0x60705A9F6939e68b16526176E8e73251dDB7fa6f
+2025-09-28 20:23:59,834 - INFO - === Starting Data Wiping Certification Process ===
+2025-09-28 20:23:59,835 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z
+2025-09-28 20:23:59,835 - INFO - Generating PDF certificate...
+2025-09-28 20:23:59,956 - INFO - Uploading certificate to IPFS...
+2025-09-28 20:24:03,109 - INFO - File uploaded to IPFS: bafkreif6ochfyupbtwf57tgf2ou6s5hsthjpttrxgndlwgslabzh2ni3ii
+2025-09-28 20:24:03,111 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-09-28 20:24:03,362 - INFO - Estimated gas: 598878, Cost: 0.01197756 ETH
+2025-09-28 20:24:03,525 - INFO - Certificate issuance transaction sent: c96e049e4de93d42c219569a1dde4c5e92180c49927786a8b43be6dc15e76ae9
+2025-09-28 20:24:03,533 - INFO - Certificate issued successfully. Block: 3
+2025-09-28 20:24:03,535 - INFO - Cleaned up temporary file: certificate_certificate__dev_sdd_20250922T123311Z.pdf
+2025-09-28 20:24:03,535 - INFO - Certificate issuance completed successfully!
+2025-09-28 20:24:03,536 - INFO - Certificate ID: certificate__dev_sdd_20250922T123311Z
+2025-09-28 20:24:03,537 - INFO - Transaction Hash: c96e049e4de93d42c219569a1dde4c5e92180c49927786a8b43be6dc15e76ae9
+2025-09-28 20:24:03,538 - INFO - IPFS Hash: bafkreif6ochfyupbtwf57tgf2ou6s5hsthjpttrxgndlwgslabzh2ni3ii
+2025-09-28 20:24:03,542 - INFO - Verifying certificate: certificate__dev_sdd_20250922T123311Z
+2025-09-28 20:24:03,624 - INFO - Certificate verified successfully
+2025-09-28 20:24:29,455 - INFO - Connected to blockchain. Account: 0xB17594b12F1aEEB61835e0689619cf8C4E501656
+2025-09-28 20:24:29,457 - INFO - Contract loaded at: 0x60705A9F6939e68b16526176E8e73251dDB7fa6f
+2025-09-28 20:24:29,891 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-09-28 20:24:29,891 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-28 20:24:29,895 - INFO -  * Restarting with stat
+2025-09-28 20:24:33,194 - INFO - Connected to blockchain. Account: 0xB17594b12F1aEEB61835e0689619cf8C4E501656
+2025-09-28 20:24:33,196 - INFO - Contract loaded at: 0x60705A9F6939e68b16526176E8e73251dDB7fa6f
+2025-09-28 20:24:33,234 - WARNING -  * Debugger is active!
+2025-09-28 20:24:33,244 - INFO -  * Debugger PIN: 138-041-344
+2025-09-29 10:48:59,621 - INFO - Connected to blockchain. Account: 0xf50558906681ee213a17ceaCe2A6b7c23c1c1316
+2025-09-29 10:48:59,623 - INFO - Contract loaded at: 0xa89074927c410b41Cdd6C1430f14d6A33ef5EFFC
+2025-09-29 10:48:59,623 - INFO - === Starting Data Wiping Certification Process ===
+2025-09-29 10:48:59,623 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z
+2025-09-29 10:48:59,623 - INFO - Generating PDF certificate...
+2025-09-29 10:49:00,165 - INFO - Uploading certificate to IPFS...
+2025-09-29 10:49:02,790 - INFO - File uploaded to IPFS: bafkreiebghmvpaqbk43lxacsnff2kwxkmsl66uhoflsl7xgq56vtz424pe
+2025-09-29 10:49:02,793 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-09-29 10:49:03,022 - INFO - Estimated gas: 598878, Cost: 0.01197756 ETH
+2025-09-29 10:49:03,133 - INFO - Certificate issuance transaction sent: 1e7a6ae11cbd7802612a78adb19b5431bb1b4d55896ce19828d702044b27cf76
+2025-09-29 10:49:03,140 - INFO - Certificate issued successfully. Block: 2
+2025-09-29 10:49:03,141 - INFO - Cleaned up temporary file: certificate_certificate__dev_sdd_20250922T123311Z.pdf
+2025-09-29 10:49:03,141 - INFO - Certificate issuance completed successfully!
+2025-09-29 10:49:03,141 - INFO - Certificate ID: certificate__dev_sdd_20250922T123311Z
+2025-09-29 10:49:03,141 - INFO - Transaction Hash: 1e7a6ae11cbd7802612a78adb19b5431bb1b4d55896ce19828d702044b27cf76
+2025-09-29 10:49:03,142 - INFO - IPFS Hash: bafkreiebghmvpaqbk43lxacsnff2kwxkmsl66uhoflsl7xgq56vtz424pe
+2025-09-29 10:49:03,142 - INFO - Verifying certificate: certificate__dev_sdd_20250922T123311Z
+2025-09-29 10:49:03,206 - INFO - Certificate verified successfully
+2025-10-03 21:25:27,020 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 21:25:27,022 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 21:25:27,023 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-03 21:25:27,023 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z
+2025-10-03 21:25:27,023 - INFO - Generating PDF certificate...
+2025-10-03 21:25:27,090 - INFO - Uploading certificate to IPFS...
+2025-10-03 21:25:30,309 - INFO - File uploaded to IPFS: bafkreialgoawlckrvsyqtd54micvykerrjelijblwftmhnguijczhhllxi
+2025-10-03 21:25:30,311 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-03 21:25:30,491 - INFO - Estimated gas: 598878, Cost: 0.01197756 ETH
+2025-10-03 21:25:30,592 - INFO - Certificate issuance transaction sent: e9fdf7332b36dd8490ac8c9814fed85c6f0236d66b1ae5fccde9591252af0905
+2025-10-03 21:25:30,598 - INFO - Certificate issued successfully. Block: 2
+2025-10-03 21:25:30,598 - INFO - Cleaned up temporary file: certificate_certificate__dev_sdd_20250922T123311Z.pdf
+2025-10-03 21:25:30,599 - INFO - Certificate issuance completed successfully!
+2025-10-03 21:25:30,599 - INFO - Certificate ID: certificate__dev_sdd_20250922T123311Z
+2025-10-03 21:25:30,599 - INFO - Transaction Hash: e9fdf7332b36dd8490ac8c9814fed85c6f0236d66b1ae5fccde9591252af0905
+2025-10-03 21:25:30,600 - INFO - IPFS Hash: bafkreialgoawlckrvsyqtd54micvykerrjelijblwftmhnguijczhhllxi
+2025-10-03 21:25:30,601 - INFO - Verifying certificate: certificate__dev_sdd_20250922T123311Z
+2025-10-03 21:25:30,637 - INFO - Certificate verified successfully
+2025-10-03 21:27:32,327 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 21:27:32,329 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 21:27:32,330 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-03 21:27:32,330 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z
+2025-10-03 21:27:32,331 - INFO - Generating PDF certificate...
+2025-10-03 21:27:32,388 - INFO - Uploading certificate to IPFS...
+2025-10-03 21:27:35,416 - INFO - File uploaded to IPFS: bafkreiayucig5mefbqfx3djvc6czhz5mwzj4lcxv7pisjinlzbwhirtooy
+2025-10-03 21:27:35,421 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-03 21:27:35,455 - ERROR - Gas estimation failed: ('execution reverted: VM Exception while processing transaction: revert Certificate already exists', {'hash': None, 'programCounter': 2353, 'result': '0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a436572746966696361746520616c726561647920657869737473000000000000', 'reason': 'Certificate already exists', 'message': 'revert'})
+2025-10-03 21:27:35,455 - ERROR - Certificate issuance failed: Cannot estimate gas cost
+2025-10-03 21:27:35,456 - ERROR - Certificate processing failed: Cannot estimate gas cost
+2025-10-03 21:33:49,728 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 21:33:49,729 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 21:33:49,730 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-03 21:33:49,730 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z_run2
+2025-10-03 21:33:49,730 - INFO - Generating PDF certificate...
+2025-10-03 21:33:49,776 - INFO - Uploading certificate to IPFS...
+2025-10-03 21:33:52,017 - INFO - File uploaded to IPFS: bafkreigoefsj3gd4c42pkcos3b4ay2htulkrnqnpaoimdbdbp3fkzah37m
+2025-10-03 21:33:52,020 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-03 21:33:52,178 - INFO - Estimated gas: 564738, Cost: 0.01129476 ETH
+2025-10-03 21:33:52,284 - INFO - Certificate issuance transaction sent: 0a50dae442ca19db9a71b1b377b014c9274cfa86f2674514a2f64c4d59a05550
+2025-10-03 21:33:52,289 - INFO - Certificate issued successfully. Block: 3
+2025-10-03 21:33:52,289 - INFO - Cleaned up temporary file: certificate_certificate__dev_sdd_20250922T123311Z_run2.pdf
+2025-10-03 21:33:52,290 - INFO - Certificate issuance completed successfully!
+2025-10-03 21:33:52,290 - INFO - Certificate ID: certificate__dev_sdd_20250922T123311Z_run2
+2025-10-03 21:33:52,290 - INFO - Transaction Hash: 0a50dae442ca19db9a71b1b377b014c9274cfa86f2674514a2f64c4d59a05550
+2025-10-03 21:33:52,291 - INFO - IPFS Hash: bafkreigoefsj3gd4c42pkcos3b4ay2htulkrnqnpaoimdbdbp3fkzah37m
+2025-10-03 21:33:52,291 - INFO - Verifying certificate: certificate__dev_sdd_20250922T123311Z_run2
+2025-10-03 21:33:52,330 - INFO - Certificate verified successfully
+2025-10-03 21:47:11,623 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 21:47:11,625 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 21:59:58,519 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 21:59:58,520 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 22:01:19,247 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 22:01:19,249 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-03 22:03:06,607 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-03 22:03:06,607 - INFO - Processing certificate: cert_7G4T9D2M8X1P_20251003T220306
+2025-10-03 22:03:06,607 - INFO - Generating PDF certificate...
+2025-10-03 22:03:06,663 - INFO - Uploading certificate to IPFS...
+2025-10-03 22:03:09,534 - INFO - File uploaded to IPFS: bafkreiav3pxtpaz5w2llfprk5jeyd5oumdeggq6kothflpfya7aqo2awny
+2025-10-03 22:03:09,537 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-03 22:03:09,737 - INFO - Estimated gas: 542386, Cost: 0.01084772 ETH
+2025-10-03 22:03:09,840 - INFO - Certificate issuance transaction sent: 190995fd047d402590cf2ec73134957e6f46cee10f3b626e375e354549b653ed
+2025-10-03 22:03:09,844 - INFO - Certificate issued successfully. Block: 4
+2025-10-03 22:03:09,845 - INFO - Cleaned up temporary file: certificate_cert_7G4T9D2M8X1P_20251003T220306.pdf
+2025-10-03 22:03:09,845 - INFO - Certificate issuance completed successfully!
+2025-10-03 22:03:09,846 - INFO - Certificate ID: cert_7G4T9D2M8X1P_20251003T220306
+2025-10-03 22:03:09,846 - INFO - Transaction Hash: 190995fd047d402590cf2ec73134957e6f46cee10f3b626e375e354549b653ed
+2025-10-03 22:03:09,846 - INFO - IPFS Hash: bafkreiav3pxtpaz5w2llfprk5jeyd5oumdeggq6kothflpfya7aqo2awny
+2025-10-03 23:59:11,580 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-03 23:59:11,584 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-04 00:01:30,655 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-04 00:01:30,657 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-04 00:11:22,114 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-04 00:11:22,116 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-04 00:11:57,618 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-04 00:11:57,621 - INFO - Processing certificate: cert_SERIAL12345456_20251004T001157
+2025-10-04 00:11:57,622 - INFO - Generating PDF certificate...
+2025-10-04 00:11:57,704 - INFO - Uploading certificate to IPFS...
+2025-10-04 00:12:00,874 - INFO - File uploaded to IPFS: bafkreif63txjlzpb7tnda56cid2cv77sei2krxygzbs4urfy6ymdz4vaqe
+2025-10-04 00:12:00,877 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-04 00:12:01,177 - INFO - Estimated gas: 542338, Cost: 0.01084676 ETH
+2025-10-04 00:12:01,333 - INFO - Certificate issuance transaction sent: 5fa1e4d14025cbb853c3c6e8571cd9f9c4b421ab58d4cd349edb50771d1a3849
+2025-10-04 00:12:01,340 - INFO - Certificate issued successfully. Block: 5
+2025-10-04 00:12:01,341 - INFO - Cleaned up temporary file: certificate_cert_SERIAL12345456_20251004T001157.pdf
+2025-10-04 00:12:01,342 - INFO - Certificate issuance completed successfully!
+2025-10-04 00:12:01,342 - INFO - Certificate ID: cert_SERIAL12345456_20251004T001157
+2025-10-04 00:12:01,342 - INFO - Transaction Hash: 5fa1e4d14025cbb853c3c6e8571cd9f9c4b421ab58d4cd349edb50771d1a3849
+2025-10-04 00:12:01,342 - INFO - IPFS Hash: bafkreif63txjlzpb7tnda56cid2cv77sei2krxygzbs4urfy6ymdz4vaqe
+2025-10-04 00:44:07,394 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-04 00:44:07,403 - INFO - Processing certificate: certificate__dev_sdd_20250922T123311Z_from_json
+2025-10-04 00:44:07,404 - INFO - Generating PDF certificate...
+2025-10-04 00:44:07,516 - INFO - Uploading certificate to IPFS...
+2025-10-04 00:44:10,337 - INFO - File uploaded to IPFS: bafkreig6clqsf66mdlcrfw26gxh3blv5nd5kfvbhgvpaitm6mwqym66p3q
+2025-10-04 00:44:10,339 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-04 00:44:10,792 - INFO - Estimated gas: 564798, Cost: 0.01129596 ETH
+2025-10-04 00:44:10,955 - INFO - Certificate issuance transaction sent: 85b4bad67dcc0c751ba626abd092e51df17f4f634342b949e5efef5c82944eeb
+2025-10-04 00:44:10,961 - INFO - Certificate issued successfully. Block: 6
+2025-10-04 00:44:10,962 - INFO - Cleaned up temporary file: certificate_certificate__dev_sdd_20250922T123311Z_from_json.pdf
+2025-10-04 00:44:10,962 - INFO - Certificate issuance completed successfully!
+2025-10-04 00:44:10,962 - INFO - Certificate ID: certificate__dev_sdd_20250922T123311Z_from_json
+2025-10-04 00:44:10,963 - INFO - Transaction Hash: 85b4bad67dcc0c751ba626abd092e51df17f4f634342b949e5efef5c82944eeb
+2025-10-04 00:44:10,963 - INFO - IPFS Hash: bafkreig6clqsf66mdlcrfw26gxh3blv5nd5kfvbhgvpaitm6mwqym66p3q
+2025-10-04 00:53:01,107 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-04 00:53:01,108 - INFO - Processing certificate: cert_SERIAL123456_20251004T005301
+2025-10-04 00:53:01,109 - INFO - Generating PDF certificate...
+2025-10-04 00:53:01,182 - INFO - Uploading certificate to IPFS...
+2025-10-04 00:53:03,943 - INFO - File uploaded to IPFS: bafkreignzacf456i37kealldfslgj63hwmxd3tnufoj7yvr444h4is5r54
+2025-10-04 00:53:03,951 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-04 00:53:04,145 - INFO - Estimated gas: 521998, Cost: 0.01043996 ETH
+2025-10-04 00:53:04,281 - INFO - Certificate issuance transaction sent: 87d9cf0a11424d6c834f8b9a46c26efd4062db1c21b74b89edff9c160f7406e4
+2025-10-04 00:53:04,287 - INFO - Certificate issued successfully. Block: 7
+2025-10-04 00:53:04,288 - INFO - Cleaned up temporary file: certificate_cert_SERIAL123456_20251004T005301.pdf
+2025-10-04 00:53:04,288 - INFO - Certificate issuance completed successfully!
+2025-10-04 00:53:04,289 - INFO - Certificate ID: cert_SERIAL123456_20251004T005301
+2025-10-04 00:53:04,289 - INFO - Transaction Hash: 87d9cf0a11424d6c834f8b9a46c26efd4062db1c21b74b89edff9c160f7406e4
+2025-10-04 00:53:04,289 - INFO - IPFS Hash: bafkreignzacf456i37kealldfslgj63hwmxd3tnufoj7yvr444h4is5r54
+2025-10-04 01:09:55,574 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-04 01:09:55,578 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-04 01:10:50,350 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-04 01:10:50,351 - INFO - Processing certificate: cert_SERIAL12345615565_20251004T011050
+2025-10-04 01:10:50,351 - INFO - Generating PDF certificate...
+2025-10-04 01:10:50,454 - INFO - Uploading certificate to IPFS...
+2025-10-04 01:10:53,639 - INFO - File uploaded to IPFS: bafkreiclvbrgmfbfxdnacixetqulfuvwcbfhg5sishaikxczkkr4uo4bla
+2025-10-04 01:10:53,649 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-04 01:10:54,209 - INFO - Estimated gas: 522118, Cost: 0.01044236 ETH
+2025-10-04 01:10:54,455 - INFO - Certificate issuance transaction sent: 49ee73ed2d23038be88809abe153589c9cc95743dcf0418cdaf1766c665f4690
+2025-10-04 01:10:54,465 - INFO - Certificate issued successfully. Block: 8
+2025-10-04 01:10:54,466 - INFO - Cleaned up temporary file: certificate_cert_SERIAL12345615565_20251004T011050.pdf
+2025-10-04 01:10:54,466 - INFO - Certificate issuance completed successfully!
+2025-10-04 01:10:54,466 - INFO - Certificate ID: cert_SERIAL12345615565_20251004T011050
+2025-10-04 01:10:54,467 - INFO - Transaction Hash: 49ee73ed2d23038be88809abe153589c9cc95743dcf0418cdaf1766c665f4690
+2025-10-04 01:10:54,467 - INFO - IPFS Hash: bafkreiclvbrgmfbfxdnacixetqulfuvwcbfhg5sishaikxczkkr4uo4bla
+2025-10-07 01:35:03,470 - INFO - Connected to blockchain. Account: 0x82571Df4D203b182bc168E0646995d4539ad93b8
+2025-10-07 01:35:03,471 - INFO - Contract loaded at: 0x43B2F1309804eeeA10Dc9aE4B97Bfc9aAdEC84ae
+2025-10-07 01:35:50,535 - INFO - === Starting Data Wiping Certification Process ===
+2025-10-07 01:35:50,538 - INFO - Processing certificate: cert_Shyam123_20251007T013550
+2025-10-07 01:35:50,539 - INFO - Generating PDF certificate...
+2025-10-07 01:35:50,622 - INFO - Uploading certificate to IPFS...
+2025-10-07 01:35:53,435 - INFO - File uploaded to IPFS: bafkreihltbwfbc3fptfd2vt7j5gk3mrsgti27xsor5m5ecstvhprp6hhxy
+2025-10-07 01:35:53,442 - INFO - ⛓️ Issuing certificate on blockchain...
+2025-10-07 01:35:53,882 - INFO - Estimated gas: 432651, Cost: 0.00865302 ETH
+2025-10-07 01:35:54,107 - INFO - Certificate issuance transaction sent: b96be1131b87a713d905586ef2812a12cdc131c3a67820bc62382fda0ef251b6
+2025-10-07 01:35:54,114 - INFO - Certificate issued successfully. Block: 9
+2025-10-07 01:35:54,115 - INFO - Cleaned up temporary file: certificate_cert_Shyam123_20251007T013550.pdf
+2025-10-07 01:35:54,116 - INFO - Certificate issuance completed successfully!
+2025-10-07 01:35:54,116 - INFO - Certificate ID: cert_Shyam123_20251007T013550
+2025-10-07 01:35:54,116 - INFO - Transaction Hash: b96be1131b87a713d905586ef2812a12cdc131c3a67820bc62382fda0ef251b6
+2025-10-07 01:35:54,117 - INFO - IPFS Hash: bafkreihltbwfbc3fptfd2vt7j5gk3mrsgti27xsor5m5ecstvhprp6hhxy
+2025-10-07 01:37:13,172 - ERROR - Failed to get certificate details: {'message': 'VM Exception while processing transaction: revert Certificate does not exist', 'stack': 'CallError: VM Exception while processing transaction: revert Certificate does not exist\n    at Blockchain.simulateTransaction (C:\\Program Files\\WindowsApps\\GanacheUI_2.7.1.0_x64__rb4352f0jd4m2\\app\\resources\\static\\node\\node_modules\\ganache\\dist\\node\\1.js:2:72658)', 'code': -32000, 'name': 'CallError', 'data': '0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a436572746966696361746520646f6573206e6f74206578697374000000000000'}
+2025-10-07 01:37:15,212 - ERROR - Failed to get certificate details: {'message': 'VM Exception while processing transaction: revert Certificate does not exist', 'stack': 'CallError: VM Exception while processing transaction: revert Certificate does not exist\n    at Blockchain.simulateTransaction (C:\\Program Files\\WindowsApps\\GanacheUI_2.7.1.0_x64__rb4352f0jd4m2\\app\\resources\\static\\node\\node_modules\\ganache\\dist\\node\\1.js:2:72658)', 'code': -32000, 'name': 'CallError', 'data': '0x08c379a00000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a436572746966696361746520646f6573206e6f74206578697374000000000000'}

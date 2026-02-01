@@ -1,0 +1,9 @@
+[2025-10-04 00:51:05] START: Secure sanitization process initiated.
+[2025-10-04 00:51:06] Target Device: SERIAL_RANDOM_98765
+[2025-10-04 00:51:07] Wipe method selected: dod_5220_22_m (3 passes).
+[2025-10-04 00:58:15] Pass 1/3 completed.
+[2025-10-04 01:05:25] Pass 2/3 completed.
+[2025-10-04 01:12:35] Pass 3/3 completed.
+[2025-10-04 01:12:40] Final verification pass started.
+[2025-10-04 01:13:00] Verification successful. All sectors overwritten.
+[2025-10-04 01:13:05] END: Data wipe process completed successfully for SERIAL_RANDOM_98765.
